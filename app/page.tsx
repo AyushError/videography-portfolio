@@ -163,13 +163,16 @@ export default function Portfolio() {
             className="absolute inset-0 scale-110"
             style={{ transform: `translateY(${scrollY * 0.5}px) scale(1.1)` }}
           >
-            <Image
-              src="/placeholder.svg?height=1080&width=1920"
-              alt="Hero background"
-              fill
-              className="object-cover opacity-20"
-              priority
-            />
+            <video
+            className="w-full max-w-3xl mx-auto rounded-xl shadow-lg"
+            controls
+            autoPlay
+            loop
+            muted
+            >
+           <source src="/videos/v3.mp4" type="video/mp4" />
+           Your browser does not support the video tag.
+            </video>
             <div className="absolute inset-0 bg-gradient-to-b from-zinc-950/60 via-zinc-950/40 to-zinc-950/80" />
           </div>
 
