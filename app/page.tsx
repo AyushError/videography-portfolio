@@ -277,7 +277,7 @@ export default function Portfolio() {
                 <RevealText delay={300}>
                   <div className="aspect-[4/5] relative overflow-hidden">
                     <Image
-                      src="/placeholder.svg?height=600&width=480"
+                      src="/v1.mp4?height=600&width=480"
                       alt="Ayush Singh"
                       fill
                       className="object-cover grayscale hover:grayscale-0 transition-all duration-700 image-hover-effect"
