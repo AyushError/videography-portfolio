@@ -45,7 +45,7 @@ export const videoData: VideoItem[] = [
 
 // Special videos for specific sections
 export const heroVideo = {
-  src: "/placeholder-video.mp4", // Using placeholder for now
+  src: "/v4.mp4", // Using placeholder for now
   fallbackImage: "/placeholder.svg?height=1080&width=1920",
 }
 
