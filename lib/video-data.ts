@@ -50,17 +50,17 @@ export const heroVideo = {
 }
 
 export const showreelVideo = {
-  src: "/placeholder-video.mp4", // Using placeholder for now
+  src: "/v3.mp4", // Using placeholder for now
   title: "Ayush Singh Showreel",
 }
 
 export const beforeAfterVideos = {
   before: {
-    src: "/placeholder-video.mp4", // Using placeholder for now
+    src: "/v2.mp4", // Using placeholder for now
     thumbnail: "/placeholder.svg?height=300&width=500",
   },
   after: {
-    src: "/placeholder-video.mp4", // Using placeholder for now
+    src: "/v4.mp4", // Using placeholder for now
     thumbnail: "/placeholder.svg?height=300&width=500",
     title: "Before & After Transformation",
   },
