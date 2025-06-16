@@ -200,19 +200,6 @@ export default function Portfolio() {
                   Every frame tells a story.
                 </p>
               </div>
-
-              <MagneticElement cursorText="PLAY" ariaLabel="Play showreel video">
-                <Button
-                  variant="outline"
-                  size="lg"
-                  className="border-zinc-600 text-zinc-100 hover:bg-zinc-100/10 hover:text-zinc-100 focus:ring-2 focus:ring-zinc-400 focus:ring-offset-2 focus:ring-offset-zinc-950 transition-all duration-300 px-6 md:px-8 py-4 md:py-6 text-sm tracking-wider font-light btn-flow touch-manipulation"
-                  onClick={() => openLightbox(showreelVideo.src, showreelVideo.title)}
-                  aria-label="Play Ayush Singh's video showreel"
-                >
-                  <Play className="mr-2 md:mr-3 h-4 w-4" aria-hidden="true" />
-                  VIEW REEL
-                </Button>
-              </MagneticElement>
             </div>
           </div>
 
@@ -249,7 +236,7 @@ export default function Portfolio() {
                   <p className="text-lg font-light leading-relaxed text-zinc-300 mb-8 tracking-wide">
                     I specialize in creating compelling visual narratives that resonate with audiences. Through
                     meticulous attention to pacing, color, and sound, I transform ordinary footage into extraordinary
-                    stories.
+                    stories.I have been a Head of Videography in the Manipal The Talk Network.
                   </p>
                 </RevealText>
 
