@@ -50,7 +50,7 @@ export const heroVideo = {
 }
 
 export const showreelVideo = {
-  src: "/v3.mp4", // Using placeholder for now
+  src: "/Vh.mp4", // Using placeholder for now
   title: "Ayush Singh Showreel",
 }
 
